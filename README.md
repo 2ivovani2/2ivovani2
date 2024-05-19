@@ -20,10 +20,10 @@ Welcome to my GitHub profile! I am an intermediate machine learning developer wi
 
 ## 🛠️ Tools and Technologies
 
-!Python (https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-!PyTorch (https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
-!Scikit-learn (https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikit-learn)
-!Pandas (https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-!NumPy (https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-!Docker (https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-!AWS (https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+- Python (https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+- PyTorch (https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
+- Scikit-learn (https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikit-learn)
+- Pandas (https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+- NumPy (https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+- Docker (https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+- AWS (https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)

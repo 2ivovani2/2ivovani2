@@ -4,12 +4,8 @@ Welcome to my GitHub profile! I am an intermediate machine learning developer wi
 
 ## 👨‍💻 About Me
 
-- 🎓 Education: your education
-- 💼 Work Experience: your work experience, positions, companies
-- 🌱 Currently learning: what you are currently learning
-- 🔭 Working on: current projects
-- 📫 How to reach me: your contact information
-- ⚡️ Fun fact: interesting fact about you
+- 🎓 Education: HSE MIEM
+- 📫 How to reach me: telegram @i_vovani
 
 ## 🚀 Skills
 
